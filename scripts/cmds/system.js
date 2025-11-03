@@ -8,11 +8,11 @@ module.exports = {
     name: "system",
     aliases: ["rtm", "up", "sys", "status"],
     version: "1.7",
-    author: "SAGOR",
+    author: "Rakib",
     countDown: 5,
     role: 0,
     shortDescription: "Stylish system info card with Ping & signature",
-    longDescription: "Displays CPU, RAM, Node.js, Uptime, Ping and Made by SaGor on canvas",
+    longDescription: "Displays CPU, RAM, Node.js, Uptime, Ping and Made by Rakib on canvas",
     category: "system",
     guide: "{pn}"
   },
