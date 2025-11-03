@@ -3,7 +3,7 @@ module.exports = {
     name: "upt",
     aliases: ["upt"],
     version: "9.1",
-    author: "SAGOR",
+    author: "Rakib",
     countDown: 5,
     role: 0,
     shortDescription: "Show uptime with fast loading bar",
